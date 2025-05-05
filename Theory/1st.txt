@@ -1,0 +1,18 @@
+Data Wrangling - is the process of transforming and cleaning raw data into a usable format for analysis, visualization, or machine learning. Raw data often comes with inconsistencies, missing values, or irrelevant information that needs to be corrected before any meaningful insights can be extracted. Data wrangling is an essential step in any data science workflow.
+
+Steps : 
+Data Collection
+Gathering datasets from sources like Kaggle, UCI, web APIs, or local files (CSV, Excel, JSON).
+
+Data Cleaning
+Detect and handle missing values using isnull(), fillna(), or dropna().
+Remove or correct inconsistent data entries.
+
+Data Transformation
+Normalize or scale numeric data (e.g., min-max scaling).
+
+Data Formatting
+Ensure data is structured correctly—proper data types, column labels, consistent units, etc.
+
+Data Validation
+Check that the final dataset is logically consistent and complete.

@@ -1,0 +1,13 @@
+Data Analytics is the process of examining, cleaning, transforming, and modeling data to extract useful insights, identify patterns, and support decision-making. It helps individuals and organizations understand their data and use it to make informed decisions.
+
+Linear Regression - is a supervised machine learning algorithm used to predict a continuous value based on the relationship between one or more input variables (independent variables) and an output variable (dependent variable). It assumes that the relationship between the variables is linear.
+
+Logistic Regression - is a supervised machine learning algorithm used for classification tasks. Unlike linear regression, which predicts continuous values, logistic regression is used to predict categorical outcomes
+
+TP (True Positive): Model correctly predicts "Purchased"
+
+FP (False Positive): Model incorrectly predicts "Purchased"
+
+TN (True Negative): Model correctly predicts "Not Purchased"
+
+FN (False Negative): Model incorrectly predicts "Not Purchased"

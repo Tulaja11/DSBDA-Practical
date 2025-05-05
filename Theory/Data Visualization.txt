@@ -1,0 +1,15 @@
+Data visualization is the graphical representation of information and data using charts, plots, and maps to make trends, outliers, and patterns easier to observe. In this practical, the focus is on exploring the Titanic dataset using Seaborn, a Python data visualization library based on Matplotlib.
+
+ 1. Seaborn Library
+Seaborn provides an interface for drawing attractive and informative statistical graphics. It simplifies complex visualizations like categorical plots, histograms, and heatmaps.
+
+2. Histogram
+A histogram is a type of bar plot that shows the distribution of a numerical variable. In this case, plotting a histogram of the fare column helps us understand how ticket prices were distributed among passengers.
+
+A box plot (also known as a box-and-whisker plot) is a graphical representation of the distribution of a dataset that shows the dataset’s central tendency, variability, and outliers. It provides a visual summary of key statistical measures: the minimum, first quartile (Q1), median (Q2), third quartile (Q3), and maximum values of a variable.
+
+Matplotlib is a popular data visualization library in Python used to create static, animated, and interactive plots. It provides control over every element of a plot, from figure size and axes to labels and colors. It is especially useful for basic chart types such as line graphs, bar charts, histograms, and scatter plots.
+Use Matplotlib when:
+You need fine control over plot appearance
+You want to build custom data visualizations
+You're working on data exploration or reporting

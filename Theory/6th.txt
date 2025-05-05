@@ -1,0 +1,11 @@
+Naïve Bayes is a probabilistic classification algorithm based on Bayes’ Theorem. It is called “naïve” because it makes a strong (and often unrealistic) assumption that all input features are independent of each other given the output class.
+Despite this simplifying assumption, Naïve Bayes performs surprisingly well in many real-world scenarios, especially with text classification and multi-class datasets.
+
+Steps in Naïve Bayes Classification
+- Calculate prior probability of each class.
+- For each class, compute the likelihood of the input features.
+- Apply Bayes’ Theorem to compute the posterior probability for each class.
+- Assign the class with the highest probability as the prediction.
+
+
+A Confusion Matrix is a performance evaluation tool used for classification algorithms. It provides a detailed breakdown of how a machine learning model performs by comparing the actual (true) values with the predicted values. The matrix is structured as a table with four key components: True Positives (TP), False Positives (FP), True Negatives (TN), and False Negatives (FN). A True Positive occurs when the model correctly predicts the positive class, while a True Negative is when it correctly predicts the negative class. A False Positive (also called a Type I error) means the model incorrectly predicts a positive outcome when it is actually negative, and a False Negative (Type II error) is when the model predicts negative while the actual value is positive. Using these values, several important performance metrics can be derived, such as Accuracy, Precision, Recall, F1-Score, and Error Rate. The confusion matrix is especially useful in scenarios where data is imbalanced, and accuracy alone may be misleading. It helps identify how well the model distinguishes between classes and where it is making mistakes.

@@ -1,0 +1,20 @@
+Text Analytics is the process of converting unstructured text data into meaningful numerical representations to extract patterns, insights, or build machine learning models. Since raw text data is messy and inconsistent, it must go through preprocessing before analysis.
+
+
+
+Document Preprocessing Methods
+ a. Tokenization
+Tokenization is the process of splitting a document into smaller units called tokens (usually words or sentences).
+b. POS Tagging (Part-of-Speech Tagging)
+This involves assigning a grammatical label (noun, verb, adjective, etc.) to each token.
+c. Stemming
+Stemming reduces words to their root form by chopping off prefixes/suffixes.
+d. Lemmatization
+Similar to stemming, but it uses vocabulary and grammar to find the correct base or dictionary word (lemma).
+
+Applications of Text Analytics
+Spam detection
+Sentiment analysis
+Document classification
+Chatbots and virtual assistants
+Topic modeling
